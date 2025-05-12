@@ -23,5 +23,8 @@ models/GFPGANv1.4.pth
 *.onnx
 models/DMDNet.pth
 faceswap/
-.vscode/
 switch_states.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
